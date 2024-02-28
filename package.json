@@ -22,5 +22,8 @@
     "cookies"
   ],
   "author": "<sabaziosd@proton.me> (https://github.com/SabaziosD)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.22"
+  }
 }
