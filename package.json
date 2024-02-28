@@ -1,0 +1,26 @@
+{
+  "types": "./index.d.ts",
+  "main": "index.js",
+  "name": "@vikhola/cookies",
+  "description": "Plugin that adds support for HTTP cookies.",
+  "version": "1.0.0",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikhola/cookies"
+  },
+  "homepage": "https://github.com/vikhola/cookies",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "vikhola",
+    "cookie",
+    "cookies"
+  ],
+  "author": "<sabaziosd@proton.me> (https://github.com/SabaziosD)",
+  "license": "MIT"
+}
